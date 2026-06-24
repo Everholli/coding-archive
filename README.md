@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Everholli/coding-archive/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Everholli/coding-archive/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
+| [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Everholli/coding-archive/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

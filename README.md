@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Everholli/coding-archive/tree/master/0022-generate-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Everholli/coding-archive/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |

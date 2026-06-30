@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Everholli/coding-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
+| [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Everholli/coding-archive/tree/master/0853-car-fleet) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Everholli/coding-archive/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Everholli/coding-archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Everholli/coding-archive/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Everholli/coding-archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Everholli/coding-archive/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

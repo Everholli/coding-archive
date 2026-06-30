@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Everholli/coding-archive/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Everholli/coding-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Everholli/coding-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Everholli/coding-archive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0032-longest-valid-parentheses) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Everholli/coding-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |

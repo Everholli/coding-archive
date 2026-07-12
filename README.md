@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Everholli/coding-archive/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Everholli/coding-archive/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Everholli/coding-archive/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Everholli/coding-archive/tree/master/0225-implement-stack-using-queues) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Everholli/coding-archive/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 | [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
 ## Breadth-First Search
 |  |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Everholli/coding-archive/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Everholli/coding-archive/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Everholli/coding-archive/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

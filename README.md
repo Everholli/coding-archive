@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Everholli/coding-archive/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Everholli/coding-archive/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/Everholli/coding-archive/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Everholli/coding-archive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Everholli/coding-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Everholli/coding-archive/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Everholli/coding-archive/tree/master/0078-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Everholli/coding-archive/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |

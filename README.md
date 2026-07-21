@@ -93,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Everholli/coding-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Everholli/coding-archive/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Everholli/coding-archive/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Everholli/coding-archive/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Everholli/coding-archive/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Everholli/coding-archive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
+| [0509-fibonacci-number](https://github.com/Everholli/coding-archive/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Everholli/coding-archive/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Everholli/coding-archive/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

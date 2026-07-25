@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Everholli/coding-archive/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Everholli/coding-archive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0032-longest-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Everholli/coding-archive/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Everholli/coding-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |

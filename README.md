@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Everholli/coding-archive/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Everholli/coding-archive/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Everholli/coding-archive/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Everholli/coding-archive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Everholli/coding-archive/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Everholli/coding-archive/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Everholli/coding-archive/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/Everholli/coding-archive/tree/master/0649-dota2-senate) |

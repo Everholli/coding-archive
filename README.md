@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Everholli/coding-archive/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Everholli/coding-archive/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
+| [0647-palindromic-substrings](https://github.com/Everholli/coding-archive/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Everholli/coding-archive/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Everholli/coding-archive/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Everholli/coding-archive/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Everholli/coding-archive/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Everholli/coding-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Everholli/coding-archive/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Everholli/coding-archive/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Everholli/coding-archive/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |

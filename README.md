@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Everholli/coding-archive/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Everholli/coding-archive/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Everholli/coding-archive/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Everholli/coding-archive/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Everholli/coding-archive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Everholli/coding-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Everholli/coding-archive/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Everholli/coding-archive/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Everholli/coding-archive/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Everholli/coding-archive/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

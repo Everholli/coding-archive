@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Everholli/coding-archive/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/Everholli/coding-archive/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Everholli/coding-archive/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/Everholli/coding-archive/tree/master/0853-car-fleet) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Everholli/coding-archive/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |

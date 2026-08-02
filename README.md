@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Everholli/coding-archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/Everholli/coding-archive/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Everholli/coding-archive/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/Everholli/coding-archive/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Everholli/coding-archive/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/Everholli/coding-archive/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Everholli/coding-archive/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Everholli/coding-archive/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Everholli/coding-archive/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Everholli/coding-archive/tree/master/0622-design-circular-queue) |
+| [0981-time-based-key-value-store](https://github.com/Everholli/coding-archive/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Everholli/coding-archive/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Everholli/coding-archive/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Everholli/coding-archive/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |

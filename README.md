@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Everholli/coding-archive/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Everholli/coding-archive/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Everholli/coding-archive/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Everholli/coding-archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Everholli/coding-archive/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Everholli/coding-archive/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Everholli/coding-archive/tree/master/0078-subsets) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Everholli/coding-archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Everholli/coding-archive/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Everholli/coding-archive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Everholli/coding-archive/tree/master/0287-find-the-duplicate-number) |
